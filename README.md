@@ -5,8 +5,8 @@
 <br> 🌱 I’m currently learning Deep learning, NLP, and Generative AI.
 <br> 👯 I’m looking to collaborate on Awesome Projects in AI.
 
-![](https://github-readme-stats.vercel.app/api?username=aneeshgadhwal&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshgadhwal&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aneeshgadhwal&theme=flag-india&hide_border=false&include_all_commits=false&count_private=true&card_width=200)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshgadhwal&theme=flag-india&hide_border=false&card_width=200)<br/>
 
 <!--## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aneeshakg1998) 
